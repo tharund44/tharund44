@@ -1,446 +1,411 @@
-Act as a world-class GitHub Profile README designer, senior UI/UX engineer, branding expert, and technical recruiter.
+<div align="center">
 
-Your task is to generate a COMPLETE GitHub README.md file for my profile.
+![](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Tharun%20Dudekula&fontSize=80&fontColor=ffffff&animation=fadeIn)
 
-IMPORTANT:
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=500&color=667eea&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Java+Developer;Full+Stack+Enthusiast;Cloud+Computing+Explorer;Software+Engineering+Student" alt="Typing SVG" />
 
-I do NOT want a copy of someone else's README.
+</div>
 
-I want an ORIGINAL premium GitHub Profile README inspired by the best GitHub profiles available.
+<div align="center">
 
-The design should feel like a FAANG engineer portfolio while being completely unique.
+[![Location](https://img.shields.io/badge/📍-Andhra_Pradesh,_India-667eea?style=for-the-badge&logoColor=white)](https://maps.google.com/?q=Andhra_Pradesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharund07/)
+[![Gmail](https://img.shields.io/badge/Gmail-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharund449@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharund44)
 
-==================================================================
-DESIGN GOALS
-==================================================================
+![Profile Views](https://komarev.com/ghpvc/?username=tharund44&color=667eea&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/tharund44?style=social)
+![Stars](https://img.shields.io/github/stars/tharund44?style=social)
 
-Create a recruiter-friendly GitHub profile that immediately impresses software engineering recruiters.
+</div>
 
-Theme:
+---
 
-• Dark luxury aesthetic
-• Purple / Indigo / Blue gradients
-• Clean spacing
-• Premium typography
-• Enterprise engineering branding
-• Modern UI
-• Responsive markdown
-• Professional appearance
-• No unnecessary emojis
-• Minimal but elegant
+## 👨‍💻 About Me
 
-It should look like a Top 1% GitHub profile.
+I'm a **Computer Science Engineering student** at Madanapalle Institute of Technology & Science with a strong passion for building **scalable, efficient backend systems**. Currently working as a **Java Developer Intern** and exploring cloud technologies through the AICTE Cisco Virtual Internship Program.
 
-==================================================================
-PROFILE INFORMATION
-==================================================================
+My engineering philosophy centers on writing **clean, maintainable code**, solving complex problems with optimal algorithms, and continuously learning emerging technologies. I'm driven by the challenge of building systems that make an impact.
 
-Name:
-Tharun D
+### 🎯 Open To
+- **Opportunities**: Full-Time Backend/Full-Stack roles at top product companies
+- **Collaborations**: Open Source contributions & technical mentoring
+- **Learning**: Advanced system design, distributed systems, and cloud architecture
 
-Role:
-Computer Science Engineering Student
+---
 
-Location:
-Andhra Pradesh, India
+## 🛠️ Tech Arsenal
 
-Current Focus:
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-667eea?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-667eea?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-667eea?style=for-the-badge&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-667eea?style=for-the-badge&logo=python&logoColor=white)
 
-• Java
-• Spring Boot
-• Data Structures & Algorithms
-• SQL
-• Full Stack Development
-• Cloud Computing (AWS)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-667eea?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-667eea?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-667eea?style=for-the-badge&logo=react&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-667eea?style=for-the-badge&logoColor=white)
 
-Career Goal:
+### 🔧 Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-667eea?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-667eea?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-667eea?style=for-the-badge&logo=express&logoColor=white)
 
-Become a Software Engineer at a top product-based company.
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-667eea?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-667eea?style=for-the-badge&logo=postgresql&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-667eea?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-667eea?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Interests:
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-667eea?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-667eea?style=for-the-badge&logo=docker&logoColor=white)
 
-• Java Backend
-• Web Development
-• Open Source
-• AI
-• Cloud
-• Software Engineering
-• Problem Solving
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-667eea?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-667eea?style=for-the-badge&logo=github&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-667eea?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-667eea?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-667eea?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-667eea?style=for-the-badge&logo=linux&logoColor=white)
 
-==================================================================
-README STRUCTURE
-==================================================================
+---
 
-Follow this order.
+## 💡 Engineering Philosophy
 
-----------------------------------------------------------
-1. Premium Animated Header
-----------------------------------------------------------
+> *"The best code is not the one that does everything. It's the one that solves the problem elegantly, scales gracefully, and reads like a well-written essay. Every function should have a purpose, every variable should have a meaning, and every system should have a soul."*
 
-Include:
+**My Principles:**
+- **Clean Code**: Readability and maintainability over cleverness
+- **Scalability**: Design systems that grow with demand
+- **Problem Solving**: Algorithms, data structures, and optimal solutions
+- **Continuous Learning**: Stay updated with industry best practices
+- **Collaboration**: Share knowledge and lift others up
 
-• Capsule Render Wave Banner
-• Typing SVG
-• Name
-• Professional subtitle
-• Engineering branding
-• Location badge
-• Portfolio badge
-• LinkedIn badge
-• Gmail badge
-• GitHub badge
-• Profile Views
-• Followers
-• Stars
+---
 
-Centered layout.
+## 🚀 Featured Projects
 
-----------------------------------------------------------
-2. Professional About Me
-----------------------------------------------------------
+<details open>
+<summary><b>📚 Sakura Nihongo - Japanese Learning Dashboard</b></summary>
 
-Write a strong recruiter-friendly introduction.
+A comprehensive web-based Japanese language learning platform built with modern full-stack technologies.
 
-Explain:
+**Tech Stack:** Spring Boot | Thymeleaf | H2 Database | HTML5 | CSS3 | JavaScript
 
-• Passion for software engineering
-• Java backend
-• Full Stack
-• Building scalable applications
-• Learning cloud
-• Open Source mindset
-• Continuous learning
-• Engineering mindset
+**Architecture:** 
+- RESTful backend with Spring MVC
+- Server-side rendering with Thymeleaf
+- Embedded H2 database for data persistence
 
-Include an "Open To" section.
+**Key Features:**
+- 🎌 Interactive Hiragana, Katakana, and Kanji learning
+- 📝 Grammar lessons with progressive difficulty
+- 📊 Progress tracking and statistics
+- 🎯 Spaced repetition system for vocabulary retention
+- 📱 Responsive design for desktop and mobile
 
-----------------------------------------------------------
-3. Tech Arsenal
-----------------------------------------------------------
+**Impact:** Helping learners efficiently progress from beginner to intermediate Japanese proficiency
 
-Organize using skill icons.
+**Future Improvements:** API migration for mobile app, real-time collaboration features, AI-powered pronunciation feedback
 
-Languages
+[![Repository](https://img.shields.io/badge/Repository-667eea?style=for-the-badge&logo=github)](https://github.com/tharund44/sakura-nihongo)
 
-• Java
-• JavaScript
-• SQL
+</details>
 
-Frontend
+<details>
+<summary><b>🎵 Sangeetham - Music Streaming Application</b></summary>
 
-• HTML
-• CSS
-• JavaScript
-• React
+A full-featured music streaming platform designed with scalability and user experience in mind.
 
-Backend
+**Tech Stack:** Java | Spring Boot | PostgreSQL | React | AWS
 
-• Spring Boot
-• Node.js
-• Express
+**Architecture:**
+- Microservices-oriented design
+- JWT authentication and authorization
+- Cloud-based file storage with AWS S3
+- Caching layer for performance optimization
 
-Databases
+**Key Features:**
+- 🎧 Stream unlimited music with high-quality audio
+- 📋 Create and manage custom playlists
+- 🎯 Intelligent recommendations engine
+- 👥 Social sharing and collaborative playlists
+- 📊 User analytics and listening statistics
 
-• MySQL
-• PostgreSQL
+**Impact:** Demonstrates full-stack proficiency with cloud integration and real-world application design
 
-Cloud
+**Future Improvements:** ML-based recommendations, podcast support, offline sync, multi-device synchronization
 
-• AWS
+[![Repository](https://img.shields.io/badge/Repository-667eea?style=for-the-badge&logo=github)](https://github.com/tharund44/sangeetham)
 
-Tools
+</details>
 
-• Git
-• GitHub
-• VS Code
-• IntelliJ IDEA
-• Docker
-• Postman
+<details>
+<summary><b>🎯 HabitBloom - Habit Tracking & Goal Management</b></summary>
 
-Operating Systems
+A modern habit tracking application designed to help users build positive behaviors through consistent tracking and insightful analytics.
 
-• Windows
-• macOS
-• Linux
+**Tech Stack:** Spring Boot | MySQL | React | Node.js | Express
 
-----------------------------------------------------------
-4. Engineering Philosophy
-----------------------------------------------------------
+**Architecture:**
+- Clean layered architecture with separation of concerns
+- Real-time notifications using WebSockets
+- Efficient database indexing for query optimization
 
-Create a beautiful quote section explaining my engineering principles.
+**Key Features:**
+- 📅 Daily habit tracking with streak counters
+- 📈 Visual progress charts and analytics
+- 🔔 Smart reminders and notifications
+- 🏆 Gamification with badges and achievements
+- 📱 Mobile-first responsive design
 
-----------------------------------------------------------
-5. Featured Projects
-----------------------------------------------------------
+**Impact:** Empowers users to track and improve their daily habits with data-driven insights
 
-Create collapsible sections.
+**Future Improvements:** Habit recommendations AI, social challenges, wearable device integration
 
-Each project must include:
+[![Repository](https://img.shields.io/badge/Repository-667eea?style=for-the-badge&logo=github)](https://github.com/tharund44/habitbloom)
 
-Project Description
+</details>
 
-Tech Stack
+<details>
+<summary><b>📎 Smart Attendance Management System</b></summary>
 
-Architecture
+Enterprise-grade attendance tracking solution with advanced reporting and analytics capabilities.
 
-Key Features
+**Tech Stack:** Java | Spring Boot | MySQL | HTML5 | CSS3
 
-Impact
+**Architecture:**
+- Role-based access control (RBAC)
+- Automated report generation
+- Email notification system
 
-Future Improvements
+**Key Features:**
+- ✅ Biometric and manual attendance tracking
+- 📊 Advanced reporting and analytics
+- 🔐 Secure authentication and authorization
+- 📧 Automated absence notifications
+- 📱 Staff dashboard with real-time updates
 
-Repository Button
+**Impact:** Streamlines attendance management for educational institutions and corporate offices
 
-Suggested projects:
+[![Repository](https://img.shields.io/badge/Repository-667eea?style=for-the-badge&logo=github)](https://github.com/tharund44/attendance-tracker)
 
-1. Sakura Nihongo
-(Spring Boot + H2 + Thymeleaf)
+</details>
 
-2. Smart Active Alarm
-(Android App)
+<details>
+<summary><b>🎬 Movie Ticket Booking System</b></summary>
 
-3. HabitBloom
-(Habit Tracker)
+A scalable online ticketing platform for cinema chains with real-time seat management.
 
-4. Attendance Tracker
+**Tech Stack:** Spring Boot | PostgreSQL | React | Redis | Docker
 
-5. Portfolio Website
+**Architecture:**
+- Distributed transaction handling
+- Redis caching for high-throughput seat queries
+- Docker containerization for deployment
 
-6. Movie Ticket Booking System
+**Key Features:**
+- 🎭 Browse movies and showtimes
+- 💺 Real-time seat selection and availability
+- 💳 Secure payment integration
+- 🎫 E-ticket generation and mobile delivery
+- 📧 Booking confirmations and reminders
 
-7. Music Streaming App
+**Impact:** Handles concurrent user requests efficiently with sub-second seat availability updates
 
-8. Placement Management System
+[![Repository](https://img.shields.io/badge/Repository-667eea?style=for-the-badge&logo=github)](https://github.com/tharund44/movie-booking)
 
-Make them sound production-ready.
+</details>
 
-----------------------------------------------------------
-6. Experience
-----------------------------------------------------------
+---
 
-Include internship experience.
+## 💼 Professional Experience
 
-Java Developer Intern
+### Java Developer Intern | The Website Makers
+**ISO 9001:2015 Certified** | Full-time
 
-Professional bullet points.
+**Duration:** [Current]
 
-Include technologies used.
+**Responsibilities:**
+- Developed and optimized RESTful APIs using Spring Boot framework
+- Designed and implemented database schemas for multiple projects
+- Performed code reviews and maintained high code quality standards
+- Collaborated with frontend teams on integration and API contracts
+- Contributed to technical documentation and deployment procedures
 
-----------------------------------------------------------
-7. Certifications
-----------------------------------------------------------
+**Technologies:** Java, Spring Boot, Spring Data JPA, MySQL, PostgreSQL, RESTful APIs, Git
 
-Group by provider.
+---
 
-AWS
+### AICTE Cisco Virtual Internship Program 2026
+**AI Track** | Madanapalle Institute of Technology & Science
 
-Oracle
+**Focus Areas:**
+- Machine Learning fundamentals and applications
+- Cloud computing with AWS
+- Network architecture and design
+- AI implementation strategies
 
-Cisco
+---
 
-NPTEL
+## 🏆 Certifications
 
-Microsoft
+### ☁️ AWS
+- AWS Certified Cloud Practitioner (In Progress)
+- AWS Solutions Architect Associate (Target)
 
-Google
+### 🗄️ Oracle
+- Oracle Certified Associate Java Programmer (Target)
+- Oracle Database Administration (Target)
 
-Eduskills
+### 🔗 Cisco
+- Cisco Certified Network Associate (CCNA) (In Progress)
+- Enterprise Networking, Security, and Automation
 
-Use premium badges.
+### 📚 NPTEL
+- Database Management Systems (DBMS)
+- Algorithms: Design and Analysis
+- Data Structures and Algorithms
 
-----------------------------------------------------------
-8. Coding Profiles
-----------------------------------------------------------
+### 🏢 Other
+- Google Cloud Associate Cloud Engineer (Target)
+- Microsoft Azure Fundamentals (Target)
 
-Large buttons for
+---
 
-LeetCode
+## 💻 Coding Profiles
 
-GeeksForGeeks
+<div align="center">
 
-HackerRank
+[![LeetCode](https://img.shields.io/badge/LeetCode-667eea?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/tharund44)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-667eea?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tharund44)
+[![CodeChef](https://img.shields.io/badge/CodeChef-667eea?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tharund44)
+[![HackerRank](https://img.shields.io/badge/HackerRank-667eea?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/tharund44)
 
-CodeChef
+</div>
 
-Codeforces
+---
 
-----------------------------------------------------------
-9. GitHub Analytics
-----------------------------------------------------------
+## 📊 GitHub Analytics
 
-Include production-ready widgets.
+<div align="center">
 
-GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharund44&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=c9cacc&icon_color=667eea&title_color=667eea&border_color=30363d)
 
-Streak Stats
+</div>
 
-Top Languages
+<div align="center">
 
-Productivity Metrics
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tharund44&theme=tokyonight&background=0d1117&border=30363d&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=c9cacc&currStreakLabel=667eea&sideNums=c9cacc&sideLabels=667eea&dates=c9cacc&excludeDaysLabel=c9cacc)
 
-Profile Summary Cards
+</div>
 
-Contribution Calendar
+<div align="center">
 
-----------------------------------------------------------
-10. Contribution Activity
-----------------------------------------------------------
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharund44&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=c9cacc&title_color=667eea&border_color=30363d)
 
-GitHub Activity Graph
+</div>
 
-Contribution Graph
+<div align="center">
 
-Snake Animation
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tharund44&theme=tokyo-night&bg_color=0d1117&color=667eea&line=667eea&point=c9cacc&area=true)
 
-----------------------------------------------------------
-11. Achievements
-----------------------------------------------------------
+</div>
 
-Create a centered markdown table.
+---
 
-Recognition
+## 🎯 Current Focus
 
-Details
-
-Badges
-
-Milestones
-
-----------------------------------------------------------
-12. Current Focus
-----------------------------------------------------------
-
-Display as YAML.
-
+```yaml
 learning:
+  - Advanced System Design patterns
+  - Distributed Systems architecture
+  - Cloud security and compliance
+  - Microservices best practices
 
 building:
+  - Full-stack applications with modern tech
+  - Open-source contributions
+  - Side projects for portfolio
+  - Personal knowledge base
 
 exploring:
+  - Kubernetes and container orchestration
+  - Event-driven architecture
+  - NoSQL database patterns
+  - GraphQL APIs
 
 reading:
+  - "System Design Interview" by Alex Xu
+  - "Clean Code" by Robert C. Martin
+  - "Designing Data-Intensive Applications"
+  - AWS whitepapers and case studies
 
 2026_goals:
+  - Secure internship at top product company
+  - Contribute meaningfully to open source
+  - Master system design concepts
+  - Build 3+ production-ready projects
+  - Achieve AWS Solutions Architect certification
+```
 
-----------------------------------------------------------
-13. Development Workflow
-----------------------------------------------------------
+---
 
-Create a workflow diagram using Mermaid.
+## 🔄 Development Workflow
 
-Idea
+```mermaid
+graph TD
+    A["💡 Idea & Requirements"] --> B["📋 Planning & Analysis"]
+    B --> C["🎨 Design & Architecture"]
+    C --> D["💻 Development & Coding"]
+    D --> E["🧪 Testing & QA"]
+    E --> F["🚀 Deployment & Release"]
+    F --> G["🔧 Maintenance & Optimization"]
+    G -.->|Feedback Loop| A
+    
+    style A fill:#667eea,stroke:#5568d3,color:#fff
+    style B fill:#667eea,stroke:#5568d3,color:#fff
+    style C fill:#667eea,stroke:#5568d3,color:#fff
+    style D fill:#667eea,stroke:#5568d3,color:#fff
+    style E fill:#667eea,stroke:#5568d3,color:#fff
+    style F fill:#667eea,stroke:#5568d3,color:#fff
+    style G fill:#667eea,stroke:#5568d3,color:#fff
+```
 
-↓
+---
 
-Planning
+## 🎉 Fun Section
 
-↓
+<div align="center">
 
-Design
+### 💬 Random Dev Quote
+### 🎬 Coding Motivation
 
-↓
+![Motivation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Development
+</div>
 
-↓
+---
 
-Testing
+## 🔗 Connect With Me
 
-↓
+<div align="center">
 
-Deployment
+[![GitHub](https://img.shields.io/badge/GitHub-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharund44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharund07/)
+[![Email](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharund449@gmail.com)
 
-↓
+</div>
 
-Maintenance
+---
 
-----------------------------------------------------------
-14. Fun Section
-----------------------------------------------------------
+<div align="center">
 
-Random Dev Quote
+![](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
-Developer Joke
+<sub>**Made with ❤️ by Tharun Dudekula** | *Continuously Learning & Growing* | Last Updated: 2026</sub>
 
-Coding GIF
-
-Spotify Now Playing (optional)
-
-Visitor Counter
-
-----------------------------------------------------------
-15. Connect
-----------------------------------------------------------
-
-Professional buttons for
-
-GitHub
-
-LinkedIn
-
-Portfolio
-
-Email
-
-Twitter/X (optional)
-
-----------------------------------------------------------
-16. Footer
-----------------------------------------------------------
-
-Elegant closing quote.
-
-Capsule Render footer banner.
-
-==================================================================
-FORMATTING RULES
-==================================================================
-
-Use:
-
-• HTML centering
-• Markdown tables
-• Badges
-• Shields.io
-• Skill Icons
-• GitHub Readme Stats
-• Activity Graph
-• Streak Stats
-• Mermaid diagrams
-• Collapsible sections
-• Clean spacing
-• Professional typography
-• Production-ready links
-• Proper alt text
-• Responsive markdown
-
-==================================================================
-QUALITY REQUIREMENTS
-==================================================================
-
-The final README should look suitable for:
-
-• Top Product Companies
-• Microsoft
-• Amazon
-• Google
-• Atlassian
-• Adobe
-• Salesforce
-• Oracle
-
-It should feel like:
-
-• Premium
-• Elegant
-• Modern
-• Enterprise-grade
-• Software Engineering Portfolio
-
-Do NOT use placeholder text like "Your Name Here."
-
-Generate everything using my information.
-
-Return ONLY one complete README.md inside a single markdown code block.
-
-Do not explain anything before or after the README.
+</div>
